@@ -9,7 +9,7 @@
 - 🔭 I’m currently working in R&D on Healthcare Management System  
   
 
-- 🌱 I’m currently involved in Big data technologies  
+- 🌱 Learning Big data technologies  
   
 
 - ❓ Ask me about anything related to big data  
@@ -72,8 +72,6 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Rakeshreddy81423&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
  
 <br/>  
   
