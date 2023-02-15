@@ -12,7 +12,7 @@
 - 🌱 Learning Big data technologies  
   
 
-- ❓ Ask me about anything related to big data  
+- ❓ Ask me about anything related to Python, MySQL, Hadoop, Hive, Kafka, AWS. 
   
 
 - ⚡ Fun fact: I use tabs over spaces  
