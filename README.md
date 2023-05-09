@@ -6,13 +6,13 @@
 ### <div align="center">I'm Rakesh, Data specialist at Futurense Technologies👨‍💻</div>  
   
 
-- 🔭 I’m currently working in R&D on Healthcare Management System  
+- 🔭 I’m currently working as Data engineer on Pyspark, Azure Databricks and Datafactory. 
   
 
-- 🌱 Learning Big data technologies  
+- 🌱 Learning Big data technologies.
   
 
-- ❓ Ask me about anything related to Python, MySQL, Hadoop, Hive, Kafka, AWS. 
+- ❓ Ask me about anything related to Python, MySQL, Hadoop, Hive, Kafka, Azure. 
   
 
 - ⚡ Fun fact: I use tabs over spaces  
